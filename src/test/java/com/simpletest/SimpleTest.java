@@ -21,5 +21,6 @@ public class SimpleTest {
 		int a = 10;
 		int b = 5;
 		Assert.assertEquals(a*b, 50, "Result should be 50");
+	}
 
 }
