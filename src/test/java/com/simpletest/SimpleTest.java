@@ -16,6 +16,7 @@ public class SimpleTest {
 		int b = 4;
 		Assert.assertEquals(a-b, 6, "Difference should be 6");
 	}
+	@Test
 	public void testMultiplication(){
 		int a = 10;
 		int b = 5;
